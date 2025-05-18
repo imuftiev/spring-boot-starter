@@ -1,1 +1,3 @@
-spring.application.name=spring-boot-starter
+log:
+  enabled: true
+  level: info
